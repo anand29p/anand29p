@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anand Pandey
 - 👀 I’m interested in ML Algorithms
-- 🌱 I’m currently learning Deep NLP
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on research papers on Deep NLP
 - 📫 Email: anandpandey29@gmail.com
 
