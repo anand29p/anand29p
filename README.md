@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anand Pandey
 - 👀 I’m interested in ML Algorithms
 - 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on research papers on Deep NLP
+- 💞️ I’m looking to collaborate on research papers on object detection models
 - 📫 Email: anandpandey29@gmail.com
 
 <!---
